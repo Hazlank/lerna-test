@@ -4,7 +4,7 @@
   ],
   "version": "0.1.0",
   "changelog": {
-    "repo": "Hazlank/lerna",
+    "repo": "Hazlank/lerna-test",
     "labels": {
       "PR: New Feature": ":rocket: New Features",
       "PR: Breaking Change": ":boom: Breaking Changes",
