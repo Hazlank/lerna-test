@@ -4,7 +4,7 @@ module.exports = {
     return f =>  b(x, y + f)
   },
   count(x = 0, y = 0) {
-    return x + y
+    return x * y
   }
 }
 
