@@ -1,5 +1,5 @@
 :rocket:
 # lerna
-lerna test
-generate changelog file
+This project is for plya lerna && and use lerna-changelog to generate changelog file
+
 

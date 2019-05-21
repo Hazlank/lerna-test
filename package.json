@@ -3,5 +3,8 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.14.1"
+  },
+  "dependencies": {
+    "lerna-changelog": "^0.8.2"
   }
 }
