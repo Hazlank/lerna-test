@@ -1,0 +1,14 @@
+{
+  "name": "hazlank-test-lerna",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "hazlank-test-lerna-core": "^0.0.1"
+  },
+  "author": "hazlank",
+  "license": "MIT"
+}
