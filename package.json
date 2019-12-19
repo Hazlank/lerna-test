@@ -6,8 +6,5 @@
   },
   "dependencies": {
     "lerna-changelog": "^0.8.2"
-  },
-  "scripts": {
-    "log": "node script/genChangelog.js"
   }
 }

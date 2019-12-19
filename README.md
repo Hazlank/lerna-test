@@ -1,5 +1,5 @@
 :rocket:
 # lerna
-This project is for play lerna && use lerna-changelog generate changelog
+This project is for plya lerna && and use lerna-changelog generate changelog
 
 
